@@ -9,7 +9,8 @@
 Работа с платформой [Gephi](https://gephi.org) и построение в ней графа по пьесе Софьи де Сегюр ([Sophie de Ségur](https://fr.wikipedia.org/wiki/Comtesse_de_Ségur)) (урождённой Софьи Фёдоровны Ростопчиной), классика детской французской литературы "Les caprices de Gizèlle".
 
 Исходные [данные](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.csv)
-[Визуализация](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.png)
+
+Gephi [Визуализация](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.png)
 
 Средняя степень - 8, 364
 Средняя взвешенная степень - 52
