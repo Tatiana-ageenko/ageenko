@@ -6,7 +6,7 @@
 ### Задание №2 - Корпусное исследование
 ––
 ### Задание №3 – Построение сети 
-Работа с платформой [Gephi](https://gephi.org) и построение в ней графа по пьесе Софьи де Сегюр ([Sophie de Ségur](https://fr.wikipedia.org/wiki/Comtesse_de_Ségur)) (урождённой Софьи Фёдоровны Ростопчиной), классика детской французской литературы "Les caprices de Gizèlle".
+Работа с платформой [Gephi](https://gephi.org) и построение в ней графа по пьесе Софьи де Сегюр ([Sophie de Ségur](https://fr.wikipedia.org/wiki/Comtesse_de_Ségur)) (урождённой Софьи Фёдоровны Ростопчиной), классика детской французской литературы ["Les caprices de Gizelle"](https://fr.wikisource.org/wiki/Comédies_et_proverbes/Les_Caprices_de_Gizelle) *("Капризы Жизель")*.
 
 Исходные [данные](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.csv)
 
