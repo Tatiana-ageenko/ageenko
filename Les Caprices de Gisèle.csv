@@ -1,0 +1,57 @@
+Source,Type,Target,Weight
+ Gizelle,Undirected,Blanche,1
+ Gizelle,Undirected,Laurence,1
+ Gizelle,Undirected,Léontine,2
+ Gizelle,Undirected,M. Gerville,2
+ Gizelle,Undirected,Pierre,1
+Blanche,Undirected,Gizelle,7
+Blanche,Undirected,Jacques,13
+Blanche,Undirected,Julie,3
+Blanche,Undirected,Laurence,20
+Blanche,Undirected,Louis,13
+Blanche,Undirected,Léontine,4
+Blanche,Undirected,M. Gerville,1
+Blanche,Undirected,Pascal,9
+Blanche,Undirected,Paul,9
+Blanche,Undirected,Paul ,4
+Blanche,Undirected,Pierre,1
+Gizelle,Undirected,Jacques,3
+Gizelle,Undirected,Julie,2
+Gizelle,Undirected,Laurence,7
+Gizelle,Undirected,Louis,3
+Gizelle,Undirected,Léontine,9
+Gizelle,Undirected,M. Gerville,5
+Gizelle,Undirected,Pascal,5
+Gizelle,Undirected,Paul ,3
+Gizelle,Undirected,Pierre,1
+Jacques,Undirected,Julie,3
+Jacques,Undirected,Laurence,13
+Jacques,Undirected,Louis,13
+Jacques,Undirected,Léontine,1
+Jacques,Undirected,Pascal,9
+Jacques,Undirected,Paul,9
+Jacques,Undirected,Paul ,4
+Julie,Undirected,Laurence,3
+Julie,Undirected,Louis,3
+Julie,Undirected,Léontine,2
+Julie,Undirected,Pascal,3
+Julie,Undirected,Paul,3
+Laurence,Undirected,Louis,13
+Laurence,Undirected,Léontine,4
+Laurence,Undirected,M. Gerville,1
+Laurence,Undirected,Pascal,9
+Laurence,Undirected,Paul,9
+Laurence,Undirected,Paul ,4
+Laurence,Undirected,Pierre,1
+Louis,Undirected,Léontine,1
+Louis,Undirected,Pascal,9
+Louis,Undirected,Paul,9
+Louis,Undirected,Paul ,4
+Léontine,Undirected,M. Gerville,7
+Léontine,Undirected,Pascal,4
+Léontine,Undirected,Paul,1
+Léontine,Undirected,Pierre,2
+M. Gerville,Undirected,Pascal,2
+M. Gerville,Undirected,Pierre,2
+Pascal,Undirected,Paul,7
+Pascal,Undirected,Paul ,2
