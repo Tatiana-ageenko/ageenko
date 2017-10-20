@@ -13,7 +13,8 @@
 Gephi [визуализация](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.png)
 
 **Анализ графа**
-<P>Средняя степень - **8,364**</P>
+
+Средняя степень - **8,364**
 
 Средняя взвешенная степень - **52**
 
