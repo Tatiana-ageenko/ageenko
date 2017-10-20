@@ -6,7 +6,7 @@
 ### Задание №2 - Корпусное исследование
 ––
 ### Задание №3 – Построение сети 
-Работа с платформой [Gephi](https://gephi.org) и построение в ней графа по пьесе Софьи де Сегюр ([Sophie de Ségur](https://fr.wikipedia.org/wiki/Comtesse_de_Ségur)) (урождённой Софьи Фёдоровны Ростопчиной), классика детской французской литературы ["Les caprices de Gizelle"](https://fr.wikisource.org/wiki/Comédies_et_proverbes/Les_Caprices_de_Gizelle) *("Капризы Жизель")*.
+Работа с платформой [Gephi](https://gephi.org) и построение в ней графа по пьесе **Софьи де Сегюр** ([Sophie de Ségur](https://fr.wikipedia.org/wiki/Comtesse_de_Ségur)) (урождённой Софьи Фёдоровны Ростопчиной), классика детской французской литературы ["Les caprices de Gizelle"](https://fr.wikisource.org/wiki/Comédies_et_proverbes/Les_Caprices_de_Gizelle) *("Капризы Жизель")*.
 
 Исходные [данные](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.csv)
 
@@ -34,6 +34,6 @@ Gephi [визуализация](https://github.com/Tatiana-ageenko/ageenko/blob
 
 ### Задание №4
 ### Задание №5
-[Презентация](https://raw.githubusercontent.com/Tatiana-ageenko/ageenko/master/Агеенко%20.pptx) статьи ["Mapping Homer’s Catalogue of Ships"](https://cloud.mail.ru/public/HLmc/xdm7K3P2L/Mapping%20Homers%20Catalogue%20of%20Ships.pdf)
+[Презентация](https://raw.githubusercontent.com/Tatiana-ageenko/ageenko/master/Агеенко%20.pptx) статьи **["Mapping Homer’s Catalogue of Ships"]**(https://cloud.mail.ru/public/HLmc/xdm7K3P2L/Mapping%20Homers%20Catalogue%20of%20Ships.pdf)
 *(Courtney Evans and Ben Jasnow
 Department of Classics, University of Virginia, VA, USA)*
