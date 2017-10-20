@@ -34,6 +34,6 @@ Gephi [визуализация](https://github.com/Tatiana-ageenko/ageenko/blob
 
 ### Задание №4
 ### Задание №5
-[Презентация](https://raw.githubusercontent.com/Tatiana-ageenko/ageenko/master/Агеенко%20.pptx) статьи **["Mapping Homer’s Catalogue of Ships"]**(https://cloud.mail.ru/public/HLmc/xdm7K3P2L/Mapping%20Homers%20Catalogue%20of%20Ships.pdf)
+[Презентация](https://raw.githubusercontent.com/Tatiana-ageenko/ageenko/master/Агеенко%20.pptx) статьи **["Mapping Homer’s Catalogue of Ships"](https://cloud.mail.ru/public/HLmc/xdm7K3P2L/Mapping%20Homers%20Catalogue%20of%20Ships.pdf)**
 *(Courtney Evans and Ben Jasnow
 Department of Classics, University of Virginia, VA, USA)*
