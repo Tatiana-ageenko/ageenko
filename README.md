@@ -8,9 +8,9 @@
 ### Задание №3 – Построение сети 
 Работа с платформой [Gephi](https://gephi.org) и построение в ней графа по пьесе **Софьи де Сегюр** ([Sophie de Ségur](https://fr.wikipedia.org/wiki/Comtesse_de_Ségur)) (урождённой Софьи Фёдоровны Ростопчиной), классика детской французской литературы ["Les caprices de Gizelle"](https://fr.wikisource.org/wiki/Comédies_et_proverbes/Les_Caprices_de_Gizelle) *("Капризы Жизель")*.
 
-Исходные [данные](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.csv)
+Исходные [данные](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.csv).
 
-Gephi [визуализация](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.png)
+Gephi [визуализация](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.png).
 
 **Анализ графа**
 
@@ -36,6 +36,6 @@ Gephi [визуализация](https://github.com/Tatiana-ageenko/ageenko/blob
 В [веб-приложении](http://geojson.io/) на карте были отмечены основные точки маршрута первой части путешествия героев романа **Генри Уилларда Френча** *(Henry Willard French)* "В Индии. Приключения двух юных американцев" (["Our Boys in India"](http://ufdc.ufl.edu/UF00081047)). Перевод на русский язык данного романа был опубликован в **№11 и №13** журнала "Юный читатель" за 1900 год.
 
 ### Задание №5
-[Презентация](https://raw.githubusercontent.com/Tatiana-ageenko/ageenko/master/Агеенко%20.pptx) статьи **["Mapping Homer’s Catalogue of Ships"](https://cloud.mail.ru/public/HLmc/xdm7K3P2L/Mapping%20Homers%20Catalogue%20of%20Ships.pdf)**
+[Презентация](https://raw.githubusercontent.com/Tatiana-ageenko/ageenko/master/Агеенко%20.pptx) статьи **["Mapping Homer’s Catalogue of Ships"](https://cloud.mail.ru/public/HLmc/xdm7K3P2L/Mapping%20Homers%20Catalogue%20of%20Ships.pdf)**.
 *(Courtney Evans and Ben Jasnow
 Department of Classics, University of Virginia, VA, USA)*
