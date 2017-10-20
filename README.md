@@ -10,7 +10,7 @@
 
 Исходные [данные](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.csv)
 
-Gephi [Визуализация](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.png)
+Gephi [визуализация](https://github.com/Tatiana-ageenko/ageenko/blob/master/Les%20Caprices%20de%20Gisèle.png)
 
 Средняя степень - 8, 364
 Средняя взвешенная степень - 52
