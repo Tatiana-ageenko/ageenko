@@ -1,6 +1,6 @@
 # DIGITAL HUMANITIES
 ## Агеенко Татьяна
-### [Задание №1] (<https://github.com/Tatiana-ageenko/ageenko/blob/master/Источник.xml>)
+### [Задание №1](https://github.com/Tatiana-ageenko/ageenko/blob/master/Источник.xml)
 Работа с платформой [Текстограф] (http://textograf.ru/).
 Стихотворение А.С. Пушкина ["Арион"] (http://rvb.ru/pushkin/01text/01versus/0423_36/1827/0439.htm), (автограф от 16 июля 1827).
 ### Задание №2 - Корпусное исследование
