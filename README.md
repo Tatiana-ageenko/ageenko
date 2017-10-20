@@ -33,7 +33,7 @@ Gephi [визуализация](https://github.com/Tatiana-ageenko/ageenko/blob
 Очевидно, что больше всего связей обнаружилось именно у главной героини пьесы (вынесенной также и в заглавие текста) – Жизель.
 
 ### Задание №4 - Создание [карты](https://github.com/Tatiana-ageenko/ageenko/blob/master/map_geojson.geojson)
-В [веб-приложении](http://geojson.io/) на карте были отмечены основные точки маршрута первой части путешествия героев романа Генри Уилларда Френча (Henry Willard French) "В Индии. Приключения двух юных американцев". Перевод на русский язык данного романа был опубликован в №11 и №13 журнала "Юный читатель" за 1900 год.
+В [веб-приложении](http://geojson.io/) на карте были отмечены основные точки маршрута первой части путешествия героев романа Генри Уилларда Френча (Henry Willard French) "В Индии. Приключения двух юных американцев" (["Our Boys in India"](http://ufdc.ufl.edu/UF00081047)). Перевод на русский язык данного романа был опубликован в №11 и №13 журнала "Юный читатель" за 1900 год.
 
 ### Задание №5
 [Презентация](https://raw.githubusercontent.com/Tatiana-ageenko/ageenko/master/Агеенко%20.pptx) статьи **["Mapping Homer’s Catalogue of Ships"](https://cloud.mail.ru/public/HLmc/xdm7K3P2L/Mapping%20Homers%20Catalogue%20of%20Ships.pdf)**
